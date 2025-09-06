@@ -1,0 +1,18 @@
+[project]
+name = "fusiongan"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "tensorflow>=2.6.0",
+    "numpy>=1.19.5",
+    "scipy>=1.7.3",
+    "h5py>=3.6.0",
+    "matplotlib>=3.5.1",
+    "sciPy>=1.7.3",
+    "Pillow>=9.0.1",
+    "opencv-python>=4.5.5",
+    "click>=8.0.0",
+    "tqdm>=4.64.0",
+]

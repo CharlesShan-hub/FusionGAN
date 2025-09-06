@@ -1,0 +1,42 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+env/
+
+# TensorFlow files
+*.tfevents*
+*.tflite
+*.pb
+*.pbtxt
+
+# Output directories
+result/
+output/
+checkpoint/
+
+# Logs
+logs/
+*.log
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
